@@ -17,7 +17,7 @@ const ItensLista = [
     {
         Nome: "Aspirador de Pó",
         imagem: "https://m.media-amazon.com/images/I/31RDw6Caq9L._AC_SL1000_.jpg",
-        url: "amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV/ref=sr_1_5?crid=4PEF1D2PQ123&dib=eyJ2IjoiMSJ9.BDCZjXJftGC3UuoDPi3O_RsLnwaJOrReyoZsVLWEQXE1shBEgR0LdUHi8nC-SPg3FNkGfw7cWRmdIQZQKIVKnsgueR24DOheIbC9ZnqvV1Poc7slq8E1nEyJFolavYyO7utyy5bqu1mMFVDshF2fQSIRguPL7H7zkrkkJriOzODps2ABxmcVXKELWefX5Y2UXdJ4jYfAJzUKkdA3CFOpE4ddoRUid8wI91lkDbdz07tXM43vyve89uz7QCwJUrnkgBeZUtN60IYon9nBqnNBfjOVVLL5x2DEPDo0HGnW2zQ.X6hQPzBPWd6lDPM7u2Vkv-CTDv3eMEoyQi3WilLaaos&dib_tag=se&keywords=aspirador+de+pó&qid=1772414083&sprefix=aspira%2Caps%2C382&sr=8-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678"
+        url: "https://www.amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV/ref=sr_1_5?crid=4PEF1D2PQ123&dib=eyJ2IjoiMSJ9.BDCZjXJftGC3UuoDPi3O_RsLnwaJOrReyoZsVLWEQXE1shBEgR0LdUHi8nC-SPg3FNkGfw7cWRmdIQZQKIVKnsgueR24DOheIbC9ZnqvV1Poc7slq8E1nEyJFolavYyO7utyy5bqu1mMFVDshF2fQSIRguPL7H7zkrkkJriOzODps2ABxmcVXKELWefX5Y2UXdJ4jYfAJzUKkdA3CFOpE4ddoRUid8wI91lkDbdz07tXM43vyve89uz7QCwJUrnkgBeZUtN60IYon9nBqnNBfjOVVLL5x2DEPDo0HGnW2zQ.X6hQPzBPWd6lDPM7u2Vkv-CTDv3eMEoyQi3WilLaaos&dib_tag=se&keywords=aspirador+de+pó&qid=1772414083&sprefix=aspira%2Caps%2C382&sr=8-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678"
     },
     {
         Nome: "Caminha de João Pedro",
@@ -32,7 +32,7 @@ const ItensLista = [
     {
         Nome: "Cafeteira elétrica",
         imagem: "https://m.media-amazon.com/images/I/71cM7xwJqXL._AC_SL1500_.jpg",
-        url: "amazon.com.br/Electrolux-ECM10-Cafeteira/dp/B09CC72K1X/ref=sr_1_6?crid=1CET220WXNN6B&dib=eyJ2IjoiMSJ9.Jm4XjDECmVPQNSfeDnzepTkKOpHnYoFjeWB8H356u4w87vLcJ8Tby8ytFRWstf3DzAOYU3KMhxroM_zzxx-PMJbJDSZeOiNVDQqsn4WqtQ32WyBEbA2lVYFk206uAu6kS_zLD120tNN_gZGpLVNU8n8Qg7SCLq6S63TIBxRuCRIJ_Pv42FC889gvwmarnu4E21CwCMVEWUvru9H72_LBbFAsIs0rxLdGN136QiVIX_Ksq05Hp3qS4oafEWaeYd0QpMOt7_UgchCYOki0fwSOSUI3GiAXmC-CHtr9Ogrh_yI.2lfGmscmHpNEpWA-Kgpb9I0a3NWvJtzPHPaN-9gpXNQ&dib_tag=se&keywords=cafeteira+eletrica&qid=1772414438&sprefix=cafeteira+%2Caps%2C265&sr=8-6&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d"
+        url: "https://www.amazon.com.br/Electrolux-ECM10-Cafeteira/dp/B09CC72K1X/ref=sr_1_6?crid=1CET220WXNN6B&dib=eyJ2IjoiMSJ9.Jm4XjDECmVPQNSfeDnzepTkKOpHnYoFjeWB8H356u4w87vLcJ8Tby8ytFRWstf3DzAOYU3KMhxroM_zzxx-PMJbJDSZeOiNVDQqsn4WqtQ32WyBEbA2lVYFk206uAu6kS_zLD120tNN_gZGpLVNU8n8Qg7SCLq6S63TIBxRuCRIJ_Pv42FC889gvwmarnu4E21CwCMVEWUvru9H72_LBbFAsIs0rxLdGN136QiVIX_Ksq05Hp3qS4oafEWaeYd0QpMOt7_UgchCYOki0fwSOSUI3GiAXmC-CHtr9Ogrh_yI.2lfGmscmHpNEpWA-Kgpb9I0a3NWvJtzPHPaN-9gpXNQ&dib_tag=se&keywords=cafeteira+eletrica&qid=1772414438&sprefix=cafeteira+%2Caps%2C265&sr=8-6&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d"
     },
     {
         Nome: "Jogo de Bowls Inox",
@@ -52,12 +52,12 @@ const ItensLista = [
     {
         Nome: "Sanduicheira",
         imagem: "https://m.media-amazon.com/images/I/61eGDtwre7L._AC_SL1500_.jpg",
-        url: "amazon.com.br/Sanduicheira-Master-Grill-Inox-S-20/dp/B084XR9K4X/ref=sr_1_9?__mk_pt_BR=ÅMÅŽÕÑ&crid=2ZO1H0TAXONTC&dib=eyJ2IjoiMSJ9.r7TEi1_6CBOekdrAf7WwfjdKtB26yHmV8q2gusIJS6p5EE6ccS13RBMEekgqAC3Q2pApDT2YvBpEgmwaEU3rPwJVmrfNH7VerU2D3U8bIg_B1ekkLodgD4W7AuK3ein1mIRrxBlNQ1VSyFWFG2_AvmHIhCEOsLuI9KcOfQBYiZJq0X3LJZqR1Q0KOXsjRbRLQqpPOEQOOdur2iQJZOt1ECGZ23-8z-AERL3kMViRd3HUclrnph6L8egFhDconQhkJr6y9vefHEbsuiHD2j0mSD4C7WI0QHoBa_SwA5Fy6fI.B9buu29dFD0rVxVQeSMUsCgu07R_NvFGFQinD4u_W-c&dib_tag=se&keywords=sanduicheira+eletrica&qid=1772414697&sprefix=sanduicheira+eletric%2Caps%2C273&sr=8-9"
+        url: "https://www.amazon.com.br/Sanduicheira-Master-Grill-Inox-S-20/dp/B084XR9K4X/ref=sr_1_9?__mk_pt_BR=ÅMÅŽÕÑ&crid=2ZO1H0TAXONTC&dib=eyJ2IjoiMSJ9.r7TEi1_6CBOekdrAf7WwfjdKtB26yHmV8q2gusIJS6p5EE6ccS13RBMEekgqAC3Q2pApDT2YvBpEgmwaEU3rPwJVmrfNH7VerU2D3U8bIg_B1ekkLodgD4W7AuK3ein1mIRrxBlNQ1VSyFWFG2_AvmHIhCEOsLuI9KcOfQBYiZJq0X3LJZqR1Q0KOXsjRbRLQqpPOEQOOdur2iQJZOt1ECGZ23-8z-AERL3kMViRd3HUclrnph6L8egFhDconQhkJr6y9vefHEbsuiHD2j0mSD4C7WI0QHoBa_SwA5Fy6fI.B9buu29dFD0rVxVQeSMUsCgu07R_NvFGFQinD4u_W-c&dib_tag=se&keywords=sanduicheira+eletrica&qid=1772414697&sprefix=sanduicheira+eletric%2Caps%2C273&sr=8-9"
     },
     {
         Nome: "Kit Taças de Vinho",
         imagem: "https://m.media-amazon.com/images/I/51cNZIWhjjL._AC_.jpg",
-        url: "amazon.com.br/Cristal-Conjunto-Unidades-Brancos-Millilitros/dp/B0GK9RDPJM/ref=sr_1_8?__mk_pt_BR=ÅMÅŽÕÑ&crid=1CP6PC6V4MTDV&dib=eyJ2IjoiMSJ9.G68zz1c6-KPQ5oPPgKYjsZMUC5F-NkcXnBRMVkVEAr9g5PLGsxTYoXV-YqAks3n-z76QGZR-OeQCHhWLU8Zt_b3-UHAqp2vr7GG93nsUf_f96YBznh9VNoHk3JhCE-neM0my-TP8DfmfODUarR_9nS07e-8QaMlBNUELPp4L7-qNBF3YTtmUqP-VE1wpLOSUPFyaai5o39eb6mg1i_XEaVHvUKXOJH_XIbQJxHdTB7W71QjIblKdkRbHXRylvn2UpHzR4YhnRYDW4V-C37JP2Y5CH7soT-R5W5sMSNugQjI.oa5-6YoKL_4DczYTAu9-UWqxzY5yOR67EnBOjNLikaU&dib_tag=se&keywords=Kit+taça+de+vinho&qid=1772414739&sprefix=kit+taça+de+vin%2Caps%2C260&sr=8-8&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+        url: "https://www.amazon.com.br/Cristal-Conjunto-Unidades-Brancos-Millilitros/dp/B0GK9RDPJM/ref=sr_1_8?__mk_pt_BR=ÅMÅŽÕÑ&crid=1CP6PC6V4MTDV&dib=eyJ2IjoiMSJ9.G68zz1c6-KPQ5oPPgKYjsZMUC5F-NkcXnBRMVkVEAr9g5PLGsxTYoXV-YqAks3n-z76QGZR-OeQCHhWLU8Zt_b3-UHAqp2vr7GG93nsUf_f96YBznh9VNoHk3JhCE-neM0my-TP8DfmfODUarR_9nS07e-8QaMlBNUELPp4L7-qNBF3YTtmUqP-VE1wpLOSUPFyaai5o39eb6mg1i_XEaVHvUKXOJH_XIbQJxHdTB7W71QjIblKdkRbHXRylvn2UpHzR4YhnRYDW4V-C37JP2Y5CH7soT-R5W5sMSNugQjI.oa5-6YoKL_4DczYTAu9-UWqxzY5yOR67EnBOjNLikaU&dib_tag=se&keywords=Kit+taça+de+vinho&qid=1772414739&sprefix=kit+taça+de+vin%2Caps%2C260&sr=8-8&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
     },
     {
         Nome: "Kit de Utensílios Cozinhar",
