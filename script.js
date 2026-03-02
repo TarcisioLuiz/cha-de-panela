@@ -111,7 +111,7 @@ function carregarItens() {
         card.innerHTML = `
             <img src="${item.imagem}" alt="${item.Nome}">
             <h3>${item.Nome}</h3>
-            <span class="btn-comprar">Ver sgestão</span>
+            <span class="btn-comprar">Ver sugestão</span>
             <p class="note">*site de compra é apenas uma sugestão</p>
         `;
 
