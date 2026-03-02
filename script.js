@@ -117,6 +117,7 @@ function carregarItens() {
             <img src="${item.imagem}" alt="${item.Nome}">
             <h3>${item.Nome}</h3>
             <span class="btn-comprar">Ver Opções</span>
+            <p class="note">*site de compra é apenas uma sugestão</p>
         `;
 
         container.appendChild(card);
