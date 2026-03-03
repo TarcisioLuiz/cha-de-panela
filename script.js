@@ -21,13 +21,8 @@ const ItensLista = [
     },
     {
         Nome: "Caminha de João Pedro",
-        imagem: "https://images.unsplash.com/photo-1548546738-8509cb246ed3?w=500",
-        url: "https://www.google.com/search?q=caminha+de+gato"
-    },
-    {
-        Nome: "Assadeira de inox/vidro",
-        imagem: "https://m.media-amazon.com/images/I/51MNOC0GgPL._AC_SL1000_.jpg",
-        url: "https://www.amazon.com.br/Tramontina-61310341-Assadeira-Inox-Prata/dp/B076JKHSWL/ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2DH0ESG2RXFKB&dib=eyJ2IjoiMSJ9.WMS5WC-9pSKKiA_aHAwRGcSWjB5UZxVyIyf2Hkc6SYI0Z-NrcCpG4Gu_BCGllCYI4hFvPa66okshcKxKWIuwfoOi0NZJBtSSrzWDwb7Gyz-qo8BMm2_hwPUQxMa3jNOYXJ8JDsRb6QoJsd43Ir9tvDiGw1hknWcC9E92XfAyXiOrrgz_HNvSweFd7mUsqYBvxt9pVQVOM1ZQXVDNeYG1zsATmpWfPMMJTnJlWCJDBK2ttivKvg3J9d1y_GGsysKS2zIrWtaePxT_vR3lUl8Yo2DAD_DAomNZX0uvdPkIiFY.hqZ06_vnYI1eKLOFrUUQMzAILvkMTL7nzShsJCQiPHs&dib_tag=se&keywords=assadeira%2Bde%2Binox&qid=1772414402&sprefix=assadeira%2Bde%2Binox%2Caps%2C241&sr=8-8&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e&th=1"
+        imagem: "https://cobasi.vteximg.com.br/arquivos/ids/1066105-1000-1000/Cama-Austria-Bichinho-Chic-Cinza-1.png?v=638702985271500000",
+        url: "https://www.cobasi.com.br/cama-austria-bichinho-chic-cinza-31152823/p?idsku=1152866&s[%E2%80%A6]n=FxbMMWO82HyH&snrai_id=8783ad9e-89ea-4bcc-bafc-b52e2964f16e"
     },
     {
         Nome: "Cafeteira elétrica",
@@ -58,11 +53,6 @@ const ItensLista = [
         Nome: "Kit Taças de Vinho",
         imagem: "https://m.media-amazon.com/images/I/51cNZIWhjjL._AC_.jpg",
         url: "https://www.amazon.com.br/Cristal-Conjunto-Unidades-Brancos-Millilitros/dp/B0GK9RDPJM/ref=sr_1_8?__mk_pt_BR=ÅMÅŽÕÑ&crid=1CP6PC6V4MTDV&dib=eyJ2IjoiMSJ9.G68zz1c6-KPQ5oPPgKYjsZMUC5F-NkcXnBRMVkVEAr9g5PLGsxTYoXV-YqAks3n-z76QGZR-OeQCHhWLU8Zt_b3-UHAqp2vr7GG93nsUf_f96YBznh9VNoHk3JhCE-neM0my-TP8DfmfODUarR_9nS07e-8QaMlBNUELPp4L7-qNBF3YTtmUqP-VE1wpLOSUPFyaai5o39eb6mg1i_XEaVHvUKXOJH_XIbQJxHdTB7W71QjIblKdkRbHXRylvn2UpHzR4YhnRYDW4V-C37JP2Y5CH7soT-R5W5sMSNugQjI.oa5-6YoKL_4DczYTAu9-UWqxzY5yOR67EnBOjNLikaU&dib_tag=se&keywords=Kit+taça+de+vinho&qid=1772414739&sprefix=kit+taça+de+vin%2Caps%2C260&sr=8-8&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
-    },
-    {
-        Nome: "Kit de Utensílios Cozinhar",
-        imagem: "https://m.media-amazon.com/images/I/51RDO+bHUiL._AC_SL1000_.jpg",
-        url: "https://www.amazon.com.br/Utens%C3%ADlios-Cozinha-Silicone-Resistente-Antiaderente/dp/B0CKWDY274/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=36WBK2LJFTKO7&dib=eyJ2IjoiMSJ9.Av8zOjXDTdB45sItMkdnIrYup2-EGTlqGJ8tlYQS33I9kjn_rmdxCNp3ulPvSpXNKhuV-_oJHspk_3Pk6_F6gulnBHcPIIMCLeBF5JQvB5mbqP_7MehwMELpkbonAmOtz-cLnUlnnUXO1X-DdJaUBztCwNr0zAxr-_YtbVe9MNwzCiSwc8s6ju84_5eGsggO-t4Rvz-fokrZOyOgF6cC501OrQQHHVAnMYVKZ744rgfGQnZ8WKTAt0O4A3hEwwcZPIxJdOyBbLPJBPeD069CtY4JSo5Tfmw5FFuSwGr44hA.eWij_HmWAHTeRXUgtVebxc9dhz9qo3xc-JrTT7rdNdg&dib_tag=se&keywords=jit+utensilios+de+cozinha&qid=1772414795&sprefix=kit+utensilios+de+cozinh%2Caps%2C248&sr=8-6"
     },
     {
         Nome: "Jogo 10 Potes Vidro (Marmita)",
