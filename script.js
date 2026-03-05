@@ -25,9 +25,9 @@ const ItensLista = [
         url: "https://www.cobasi.com.br/cama-austria-bichinho-chic-cinza-31152823/p?idsku=1152866&s[%E2%80%A6]n=FxbMMWO82HyH&snrai_id=8783ad9e-89ea-4bcc-bafc-b52e2964f16e"
     },
     {
-        Nome: "Cafeteira elétrica",
-        imagem: "https://m.media-amazon.com/images/I/71cM7xwJqXL._AC_SL1500_.jpg",
-        url: "https://www.amazon.com.br/Electrolux-ECM10-Cafeteira/dp/B09CC72K1X/ref=sr_1_6?crid=1CET220WXNN6B&dib=eyJ2IjoiMSJ9.Jm4XjDECmVPQNSfeDnzepTkKOpHnYoFjeWB8H356u4w87vLcJ8Tby8ytFRWstf3DzAOYU3KMhxroM_zzxx-PMJbJDSZeOiNVDQqsn4WqtQ32WyBEbA2lVYFk206uAu6kS_zLD120tNN_gZGpLVNU8n8Qg7SCLq6S63TIBxRuCRIJ_Pv42FC889gvwmarnu4E21CwCMVEWUvru9H72_LBbFAsIs0rxLdGN136QiVIX_Ksq05Hp3qS4oafEWaeYd0QpMOt7_UgchCYOki0fwSOSUI3GiAXmC-CHtr9Ogrh_yI.2lfGmscmHpNEpWA-Kgpb9I0a3NWvJtzPHPaN-9gpXNQ&dib_tag=se&keywords=cafeteira+eletrica&qid=1772414438&sprefix=cafeteira+%2Caps%2C265&sr=8-6&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d"
+        Nome: "Jogo de facas",
+        imagem: "https://m.media-amazon.com/images/I/51oCxGHT-aL._AC_SX679_.jpg",
+        url: "https://www.amazon.com.br/Facas-Tramontina-Plenus-L%C3%A2minas-Polipropileno/dp/B07WR4TP9W/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=VOYNVIJ71EC5&dib=eyJ2IjoiMSJ9.azJmO6ZzooTNGuiwtGzzxgcTw1KjdE_wzOXcM_KgOnzpfFm_BwDopFawDv9xcQ_EjaoOB-RZZJdig8y4cD6Z8BgvO7iYSSf4qGGWLCuOmVx_fleo0ctTQxCuLrhllVYI4idPieSmNx27JRm3pVId7qFgtYREr0S5e4i8cAQp3yvbrLG7sHeXxGG5yF22lBUignEYF4yD_G44rvCsstS-25UJn2Aobhpb-I5Lba-4UhgIl9FzPr_gqHp8hGIcQmGmC10MDCAE6Rlepsqk9Dgk_bHkWxgJ6iZOCOfg_29hesI.TVQJIwpsotivH7nq3R9HiKvRZAO0PNXC1l_LpFX7B7Y&dib_tag=se&keywords=jogo+de+faca&qid=1772670586&sprefix=jogo+de+fac%2Caps%2C275&sr=8-7"
     },
     {
         Nome: "Jogo de Bowls Inox",
@@ -43,11 +43,6 @@ const ItensLista = [
         Nome: "Escorredor de Pratos Inox",
         imagem: "https://m.media-amazon.com/images/I/61qciphpIlL._AC_SL1200_.jpg",
         url: "https://www.amazon.com.br/Escorredor-Pratos-Porta-Talheres-Inox/dp/B0786S11XL/ref=sr_1_6?crid=31C9G0VK8CH50&dib=eyJ2IjoiMSJ9.wnlRKX3RmFTGnXbviJCSQ84T3HkybtCsBEsER82itBqYz5Gv0XEK__cH4BeFK6XmrC7ZL_ZhginQYDmN1SrApBwa5DzG65FPtuAZaIzUa6cwgcERy-zSe17XDlClm8-FHA6j6MIL925c6mqKMeD4-NEfTw7nJ67wPNyVO0N1hHNcwIMpBRIjcMwKDXLA6HXIn7N1qBSdto5DBkj5MzVaov5Aj2pQ8GV6rocFUbHFnEitMkM3Il9Xlq_WhnN0wkHIPw4-HyQsqmwXxrGTZQIxfK2oqK_0VJ1wE5AKN0WAKH0.YRT_y5IWdfiSZ5LWLMPWxHfGVOysjp81yTzVFh-nX3s&dib_tag=se&keywords=escorredor+de+pratos+inox&qid=1772414644&sprefix=escorredor+de+pr%2Caps%2C270&sr=8-6&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d"
-    },
-    {
-        Nome: "Sanduicheira",
-        imagem: "https://m.media-amazon.com/images/I/61eGDtwre7L._AC_SL1500_.jpg",
-        url: "https://www.amazon.com.br/Sanduicheira-Master-Grill-Inox-S-20/dp/B084XR9K4X/ref=sr_1_9?__mk_pt_BR=ÅMÅŽÕÑ&crid=2ZO1H0TAXONTC&dib=eyJ2IjoiMSJ9.r7TEi1_6CBOekdrAf7WwfjdKtB26yHmV8q2gusIJS6p5EE6ccS13RBMEekgqAC3Q2pApDT2YvBpEgmwaEU3rPwJVmrfNH7VerU2D3U8bIg_B1ekkLodgD4W7AuK3ein1mIRrxBlNQ1VSyFWFG2_AvmHIhCEOsLuI9KcOfQBYiZJq0X3LJZqR1Q0KOXsjRbRLQqpPOEQOOdur2iQJZOt1ECGZ23-8z-AERL3kMViRd3HUclrnph6L8egFhDconQhkJr6y9vefHEbsuiHD2j0mSD4C7WI0QHoBa_SwA5Fy6fI.B9buu29dFD0rVxVQeSMUsCgu07R_NvFGFQinD4u_W-c&dib_tag=se&keywords=sanduicheira+eletrica&qid=1772414697&sprefix=sanduicheira+eletric%2Caps%2C273&sr=8-9"
     },
     {
         Nome: "Kit Taças de Vinho",
