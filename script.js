@@ -15,6 +15,11 @@ const ItensLista = [
         url: "https://www.amazon.com.br/Tramontina-Vancouver-Alum%C3%ADnio-Revestimento-Antiaderente/dp/B0CD4SFMD7/ref=sr_1_9?dib=eyJ2IjoiMSJ9.hhznWoGHskEmpRz3HdNScrc8-cn87-uWj_avRDWi_bXJqE5SR7A4z_a3GaW7K1fGIHsWbcGOY1NTHxhMuYWu6WSSc9dPMRsUMFh6Lb5igBFXHzqriG322k-uMtVE4myVddO4GwQ2DU-MIyQ8krrUzZnYMd4m48cPuZyxuIQS1g9qSlrH6o1OiXRigfxJGnO2vhpbd0I7o5sHPnH-BVld_8o3VoCboZSslXJ-E6_9qMQhReWV2QQtsbPyZvWEP01iylBqq7RfYx_2wTlqn7uhtogetY3dnNgzCNCIzSkMJI4.RI49CzgRosz4xufSaDjw-S1bJnV4By8KEY4mTxBYB9U&dib_tag=se&keywords=panela+de+press%C3%A3o&qid=1772413707&sr=8-9&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678"
     },
     {
+        Nome: "Suggar",
+        imagem: "https://m.media-amazon.com/images/I/41YbqUz1KGL._AC_SL1200_.jpg",
+        url: "https://www.amazon.com.br/dp/B0B3SFSLV8?ref=cm_sw_r_cso_wa_apin_dp_0XP008RKJGZZ7TZ335DZ&ref_=cm_sw_r_cso_wa_apin_dp_0XP008RKJGZZ7TZ335DZ&social_share=cm_sw_r_cso_wa_apin_dp_0XP008RKJGZZ7TZ335DZ&th=1"
+    },
+    {
         Nome: "Caminha de João Pedro",
         imagem: "https://cobasi.vteximg.com.br/arquivos/ids/1066105-1000-1000/Cama-Austria-Bichinho-Chic-Cinza-1.png?v=638702985271500000",
         url: "https://www.cobasi.com.br/cama-austria-bichinho-chic-cinza-31152823/p?idsku=1152866&s[%E2%80%A6]n=FxbMMWO82HyH&snrai_id=8783ad9e-89ea-4bcc-bafc-b52e2964f16e"
