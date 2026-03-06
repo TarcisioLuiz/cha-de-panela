@@ -15,11 +15,6 @@ const ItensLista = [
         url: "https://www.amazon.com.br/Tramontina-Vancouver-Alum%C3%ADnio-Revestimento-Antiaderente/dp/B0CD4SFMD7/ref=sr_1_9?dib=eyJ2IjoiMSJ9.hhznWoGHskEmpRz3HdNScrc8-cn87-uWj_avRDWi_bXJqE5SR7A4z_a3GaW7K1fGIHsWbcGOY1NTHxhMuYWu6WSSc9dPMRsUMFh6Lb5igBFXHzqriG322k-uMtVE4myVddO4GwQ2DU-MIyQ8krrUzZnYMd4m48cPuZyxuIQS1g9qSlrH6o1OiXRigfxJGnO2vhpbd0I7o5sHPnH-BVld_8o3VoCboZSslXJ-E6_9qMQhReWV2QQtsbPyZvWEP01iylBqq7RfYx_2wTlqn7uhtogetY3dnNgzCNCIzSkMJI4.RI49CzgRosz4xufSaDjw-S1bJnV4By8KEY4mTxBYB9U&dib_tag=se&keywords=panela+de+press%C3%A3o&qid=1772413707&sr=8-9&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678"
     },
     {
-        Nome: "Aspirador de Pó",
-        imagem: "https://m.media-amazon.com/images/I/31RDw6Caq9L._AC_SL1000_.jpg",
-        url: "https://www.amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV/ref=sr_1_5?crid=4PEF1D2PQ123&dib=eyJ2IjoiMSJ9.BDCZjXJftGC3UuoDPi3O_RsLnwaJOrReyoZsVLWEQXE1shBEgR0LdUHi8nC-SPg3FNkGfw7cWRmdIQZQKIVKnsgueR24DOheIbC9ZnqvV1Poc7slq8E1nEyJFolavYyO7utyy5bqu1mMFVDshF2fQSIRguPL7H7zkrkkJriOzODps2ABxmcVXKELWefX5Y2UXdJ4jYfAJzUKkdA3CFOpE4ddoRUid8wI91lkDbdz07tXM43vyve89uz7QCwJUrnkgBeZUtN60IYon9nBqnNBfjOVVLL5x2DEPDo0HGnW2zQ.X6hQPzBPWd6lDPM7u2Vkv-CTDv3eMEoyQi3WilLaaos&dib_tag=se&keywords=aspirador+de+pó&qid=1772414083&sprefix=aspira%2Caps%2C382&sr=8-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678"
-    },
-    {
         Nome: "Caminha de João Pedro",
         imagem: "https://cobasi.vteximg.com.br/arquivos/ids/1066105-1000-1000/Cama-Austria-Bichinho-Chic-Cinza-1.png?v=638702985271500000",
         url: "https://www.cobasi.com.br/cama-austria-bichinho-chic-cinza-31152823/p?idsku=1152866&s[%E2%80%A6]n=FxbMMWO82HyH&snrai_id=8783ad9e-89ea-4bcc-bafc-b52e2964f16e"
@@ -28,11 +23,6 @@ const ItensLista = [
         Nome: "Jogo de facas",
         imagem: "https://m.media-amazon.com/images/I/51oCxGHT-aL._AC_SX679_.jpg",
         url: "https://www.amazon.com.br/Facas-Tramontina-Plenus-L%C3%A2minas-Polipropileno/dp/B07WR4TP9W/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=VOYNVIJ71EC5&dib=eyJ2IjoiMSJ9.azJmO6ZzooTNGuiwtGzzxgcTw1KjdE_wzOXcM_KgOnzpfFm_BwDopFawDv9xcQ_EjaoOB-RZZJdig8y4cD6Z8BgvO7iYSSf4qGGWLCuOmVx_fleo0ctTQxCuLrhllVYI4idPieSmNx27JRm3pVId7qFgtYREr0S5e4i8cAQp3yvbrLG7sHeXxGG5yF22lBUignEYF4yD_G44rvCsstS-25UJn2Aobhpb-I5Lba-4UhgIl9FzPr_gqHp8hGIcQmGmC10MDCAE6Rlepsqk9Dgk_bHkWxgJ6iZOCOfg_29hesI.TVQJIwpsotivH7nq3R9HiKvRZAO0PNXC1l_LpFX7B7Y&dib_tag=se&keywords=jogo+de+faca&qid=1772670586&sprefix=jogo+de+fac%2Caps%2C275&sr=8-7"
-    },
-    {
-        Nome: "Jogo de Bowls Inox",
-        imagem: "https://m.media-amazon.com/images/I/41C6AViu6ZL._AC_.jpg",
-        url: "https://www.amazon.com.br/Conjunto-Tigelas-Mixing-TopChef-BOWL18-20-22-24-26-28cm/dp/B0DSCKZD9D/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2TTB7ILWBSM83&dib=eyJ2IjoiMSJ9.g2veUFTIENs0xqRCxqtbxr3C6pfLYaNSO1Gbae-0OYIOwoS8-Mtqro0bR073hoq3094ZgV6YBFiqOUcCCdq-VD0fyiNX0R98kK84Ma4P3o-ka_g8fcRT2niGym7JIIgxt7N-7MGsGQOtQoz7ULyIK7xhbTpnRePamSNm-e3_10_djOuNachmW42Tdmj7nqSWYJNltMPlVceRoCEYsjwcJgqYsTQz29w-b66UTU2pkeb1W08yg3pOpdt9fesJvmXvaPFQvfsw-bxArnkScfHcItJVkV8zmahh3H284Zxrkbw.KUmpb8b2m3FSa2FF_qFuO9ih-Kzzky9wlTBEx24haCE&dib_tag=se&keywords=jogo%2Bde%2Bbowl%2Binox&qid=1772414507&sprefix=jogo%2Bde%2Bbowls%2Binox%2Caps%2C265&sr=8-7&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74&th=1"
     },
     {
         Nome: "Jogo de Talher",
