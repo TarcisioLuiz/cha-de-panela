@@ -1,8 +1,8 @@
 const ItensLista = [
     {
         Nome: "Ferro de passar roupa",
-        imagem: "https://m.media-amazon.com/images/I/41nRdAvKM9L._AC_SL1000_.jpg",
-        url: "https://www.amazon.com.br/Decker-Vaporizador-Sistema-Antigotejamento-FX3100/dp/B083ZLZGF7/ref=pd_ci_mcx_mh_mcx_views_0_title?pd_rd_w=F0ZzF&content-id=amzn1.sym.87e935c8-d687-4dd4-9dbf-8b9bdbb5018e%3Aamzn1.symc.c3d5766d-b606-46b8-ab07-1d9d1da0638a&pf_rd_p=87e935c8-d687-4dd4-9dbf-8b9bdbb5018e&pf_rd_r=WHZYYX0HDN79GSJP59KE&pd_rd_wg=zGQhK&pd_rd_r=79e6556a-4698-4906-baf9-efe834e20dfe&pd_rd_i=B083ZLZGF7"
+        imagem: "https://m.media-amazon.com/images/I/5105qwGHJqL._AC_SL1000_.jpg",
+        url: "https://www.amazon.com.br/dp/B09LNLM4FX?ref=cm_sw_r_cso_wa_apin_dp_ZR88MW0YVGVHZFH590MS&ref_=cm_sw_r_cso_wa_apin_dp_ZR88MW0YVGVHZFH590MS&social_share=cm_sw_r_cso_wa_apin_dp_ZR88MW0YVGVHZFH590MS&th=1"
     },
     {
         Nome: "Caminha de João Pedro",
