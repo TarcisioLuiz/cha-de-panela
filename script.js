@@ -22,7 +22,7 @@ const ItensLista = [
     {
         Nome: "Lixeira Banheiro 12 Litros",
         imagem: "https://m.media-amazon.com/images/I/31tGsalT79L._AC_SL1000_.jpg",
-        url: "amazon.com.br/dp/B09SZRXLMV?ref=cm_sw_r_cso_wa_apin_dp_SNWYCYXKXGQJA59YX29A&ref_=cm_sw_r_cso_wa_apin_dp_SNWYCYXKXGQJA59YX29A&social_share=cm_sw_r_cso_wa_apin_dp_SNWYCYXKXGQJA59YX29A"
+        url: "https://www.amazon.com.br/dp/B09SZRXLMV?ref=cm_sw_r_cso_wa_apin_dp_SNWYCYXKXGQJA59YX29A&ref_=cm_sw_r_cso_wa_apin_dp_SNWYCYXKXGQJA59YX29A&social_share=cm_sw_r_cso_wa_apin_dp_SNWYCYXKXGQJA59YX29A"
     },
     {
         Nome: "TV",
