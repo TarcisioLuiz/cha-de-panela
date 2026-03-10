@@ -21,13 +21,18 @@ const ItensLista = [
     },
     {
         Nome: "Lixeira Banheiro 12 Litros",
-        imagem: "https://m.media-amazon.com/images/I/31OEYuTUleL.jpg",
-        url: "https://www.amazon.com.br/Lixeira-Automatica-Inteligente-Sensor-Branca/dp/B0BFVDVDRN/ref=sr_1_11?dib=eyJ2IjoiMSJ9.n1G_SUZ8jbOV-AuEzcjO4sVygPibCJmPzQHpaAqI6Gr2KOWlRpXVJBgu0BHLgGDjvJnBjUB7JIIOfGUaYgaZO2nsQbcbrGcdDUSA1v-GSUdbiH7MTk3uneVOGs7440JgCRuZp2M9ni8GcW1xg5OR-RjpvtbhT9ayIcuQRBnvV6d_aT6Lxal5wkYzrnztyYcRqpRaZQOEODd_Y9wEaZYCB9D8nXOiv_sm11f0zXsrVolqWhmflBBEcxe97Didaells7LSM244-klUheKaK5-xh49ik3HO27JU9kjXbjhN5gU.-r4NO0aynVe3KobqbQkPcYQrG6Xi4AVQ0ZhGD4_h-H0&dib_tag=se&keywords=lixo+15+litros&qid=1773106481&sr=8-11&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+        imagem: "https://m.media-amazon.com/images/I/31tGsalT79L._AC_SL1000_.jpg",
+        url: "amazon.com.br/dp/B09SZRXLMV?ref=cm_sw_r_cso_wa_apin_dp_SNWYCYXKXGQJA59YX29A&ref_=cm_sw_r_cso_wa_apin_dp_SNWYCYXKXGQJA59YX29A&social_share=cm_sw_r_cso_wa_apin_dp_SNWYCYXKXGQJA59YX29A"
     },
     {
         Nome: "TV",
         imagem: "https://m.media-amazon.com/images/I/81-ljI2R4dL._AC_SL1500_.jpg",
         url: "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X69KQB/ref=sr_1_6?crid=2MZC61R2DZ6VB&dib=eyJ2IjoiMSJ9.70F1TS-WLRCxC7lre_T9AYFU1jMagz9HLIvGFdYMMoDT-ChLgEw-vb16_4Q-yw7T0QsCPUOoVPLQjKBrfLXvkXe7sc1Zoa_uKkobQPeulnpoYxsW5fx8N7X8thFlg52jbfX3HYewQOcJ7VnPu1hTMEDPIL6bp-TXH01j1TNA1cfRCB6h0nMdU76oYfOK70XljbqiLttgtPyOT-e3FTPaeWApV1pAnNLpYyBuPiB1mYyKOQqN45i-OmGuzWU4r82Q9N6FBEv0mkmd1PGFKbS5skY1wi_oaFMwJY3bqRQU4ws.FXSuOaYI5P52JGqTSRX6z9A-J66fQDbTwIKUOZhVntE&dib_tag=se&keywords=televis%C3%A3o%2B43%2Bpolegadas&qid=1772415053&sprefix=televisao%2B43%2Caps%2C264&sr=8-6&th=1"
+    },
+        {
+        Nome: "Mop",
+        imagem: "https://m.media-amazon.com/images/I/41bGKJT7rWL._AC_SL1000_.jpg",
+        url: "https://www.amazon.com.br/Spray-MOP0556-Verde-Flash-Limp/dp/B08NF6PTG4/ref=sr_1_7?crid=2NM4G8WL3FRCM&dib=eyJ2IjoiMSJ9.ttDdNV6Rj2TOp5J5bT11hVMQ-FIzconPu6QW6tKbjGaOd6VYuEFxuobkU-_IWpz0-I86pn1nhgk-4VhNUYhr9U1MZKIbzDmDAd7jlVvFTyHS4Ujg-I6gL18BxVa6Bbb0S1IszquXmNkNcLztb_ZJueaLZv9vS9ycxHGH4fORGvCVZd4gSqDg-2-bKtapC79KNSebtC3eGNru8OCYok1THqXRcIuxkBbKi_KoZwiWrbVkiC-c1SvMwle39KtTpgtqmAhE-d9jkQwwDsYhaDLLU2hJmf4hmmSVDON-zKSmKKA.gsW13VwBj0C_NaW8INB4p4PPajByx2BbSLAPu1FcawY&dib_tag=se&keywords=mop&psr=EY17&qid=1773107185&s=todays-deals&sprefix=mop%2Ctodays-deals%2C277&sr=1-7&th=1"
     }
 ];
 
