@@ -5,21 +5,6 @@ const ItensLista = [
         url: "https://www.amazon.com.br/Decker-Vaporizador-Sistema-Antigotejamento-FX3100/dp/B083ZLZGF7/ref=pd_ci_mcx_mh_mcx_views_0_title?pd_rd_w=F0ZzF&content-id=amzn1.sym.87e935c8-d687-4dd4-9dbf-8b9bdbb5018e%3Aamzn1.symc.c3d5766d-b606-46b8-ab07-1d9d1da0638a&pf_rd_p=87e935c8-d687-4dd4-9dbf-8b9bdbb5018e&pf_rd_r=WHZYYX0HDN79GSJP59KE&pd_rd_wg=zGQhK&pd_rd_r=79e6556a-4698-4906-baf9-efe834e20dfe&pd_rd_i=B083ZLZGF7"
     },
     {
-        Nome: "Conjunto de Panelas",
-        imagem: "https://m.media-amazon.com/images/I/61GS-3FA5vL._AC_SL1000_.jpg",
-        url: "https://www.amazon.com.br/Panelas-Tramontina-Antiaderente-Turim-Vermelho/dp/B0BBS9KDHT/ref=sr_1_26?crid=3E0D95IQNY1OL&dib=eyJ2IjoiMSJ9.x9bVPJW7VZFOBDz6ZMV1vtgz1mIWrkElkkJO8_buW2lwdb-tGViIYDakgXrp-1R6nc7LmX7sdUxBKkor3uMuFzV7-MtzQVKLzMI6ish11S-uPLCZv8eOGNP_fk7tgUh8OsV3xVFRC21BH14hPkcasGXuXERwTqqk4Wmgm9vDfeNP4QtXTm6ZAdK7z3XeP65uxcmar2HllRXI-824qXsZyM0Gt834dg1rKGMLvJUEQBGqwX8dJY14LMixzitnZVp8NIb2Ay9EgtfwbZ9RuLttOAZVcfvOiG9ursEg7VFrEtE.Pkxa6RyHO1cRGQIF9J-baygRlxihh_0ejdqUQX5KAis&dib_tag=se&keywords=conjunto+de+panelas+tramontina&qid=1772413796&sprefix=conjunto+de+panelas%2Caps%2C265&sr=8-26&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b"
-    },
-    {
-        Nome: "Panela de Pressão",
-        imagem: "https://m.media-amazon.com/images/I/71vhS1jZqnL._AC_SL1500_.jpg",
-        url: "https://www.amazon.com.br/Tramontina-Vancouver-Alum%C3%ADnio-Revestimento-Antiaderente/dp/B0CD4SFMD7/ref=sr_1_9?dib=eyJ2IjoiMSJ9.hhznWoGHskEmpRz3HdNScrc8-cn87-uWj_avRDWi_bXJqE5SR7A4z_a3GaW7K1fGIHsWbcGOY1NTHxhMuYWu6WSSc9dPMRsUMFh6Lb5igBFXHzqriG322k-uMtVE4myVddO4GwQ2DU-MIyQ8krrUzZnYMd4m48cPuZyxuIQS1g9qSlrH6o1OiXRigfxJGnO2vhpbd0I7o5sHPnH-BVld_8o3VoCboZSslXJ-E6_9qMQhReWV2QQtsbPyZvWEP01iylBqq7RfYx_2wTlqn7uhtogetY3dnNgzCNCIzSkMJI4.RI49CzgRosz4xufSaDjw-S1bJnV4By8KEY4mTxBYB9U&dib_tag=se&keywords=panela+de+press%C3%A3o&qid=1772413707&sr=8-9&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678"
-    },
-    {
-        Nome: "Suggar",
-        imagem: "https://m.media-amazon.com/images/I/41YbqUz1KGL._AC_SL1200_.jpg",
-        url: "https://www.amazon.com.br/dp/B0B3SFSLV8?ref=cm_sw_r_cso_wa_apin_dp_0XP008RKJGZZ7TZ335DZ&ref_=cm_sw_r_cso_wa_apin_dp_0XP008RKJGZZ7TZ335DZ&social_share=cm_sw_r_cso_wa_apin_dp_0XP008RKJGZZ7TZ335DZ&th=1"
-    },
-    {
         Nome: "Caminha de João Pedro",
         imagem: "https://cobasi.vteximg.com.br/arquivos/ids/1066105-1000-1000/Cama-Austria-Bichinho-Chic-Cinza-1.png?v=638702985271500000",
         url: "https://www.cobasi.com.br/cama-austria-bichinho-chic-cinza-31152823/p?idsku=1152866&s[%E2%80%A6]n=FxbMMWO82HyH&snrai_id=8783ad9e-89ea-4bcc-bafc-b52e2964f16e"
@@ -30,44 +15,14 @@ const ItensLista = [
         url: "https://www.amazon.com.br/Facas-Tramontina-Plenus-L%C3%A2minas-Polipropileno/dp/B07WR4TP9W/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=VOYNVIJ71EC5&dib=eyJ2IjoiMSJ9.azJmO6ZzooTNGuiwtGzzxgcTw1KjdE_wzOXcM_KgOnzpfFm_BwDopFawDv9xcQ_EjaoOB-RZZJdig8y4cD6Z8BgvO7iYSSf4qGGWLCuOmVx_fleo0ctTQxCuLrhllVYI4idPieSmNx27JRm3pVId7qFgtYREr0S5e4i8cAQp3yvbrLG7sHeXxGG5yF22lBUignEYF4yD_G44rvCsstS-25UJn2Aobhpb-I5Lba-4UhgIl9FzPr_gqHp8hGIcQmGmC10MDCAE6Rlepsqk9Dgk_bHkWxgJ6iZOCOfg_29hesI.TVQJIwpsotivH7nq3R9HiKvRZAO0PNXC1l_LpFX7B7Y&dib_tag=se&keywords=jogo+de+faca&qid=1772670586&sprefix=jogo+de+fac%2Caps%2C275&sr=8-7"
     },
     {
-        Nome: "Jogo de Talher",
-        imagem: "https://m.media-amazon.com/images/I/61x2HGF7CfL._AC_SL1000_.jpg",
-        url: "https://www.amazon.com.br/Faqueiro-Inox-Buzios-Tramontina-23799/dp/B0789M146B/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=LT939IBMWCE1&dib=eyJ2IjoiMSJ9.s3TZ3NmdtUGxTS7HJk65MI104zOLjCqme-O_5mvAh_nBlaACNJbDB_sdWyKYDTixaIJtAvKZvMnLUw3sRLkE5MztQSFcf50F3l50xAIo1_oM9p18GXWFTbzLV6IZbj6OO1ZDaZS7jb7UyWpMr99lDotSre8xMr5NPNv_xi3r_ec-cHzOhaeUgX8-5gRKTxdrbB5NmovuV_e0eAuZHrg1fxDykR0MNObzKus2R7_9AEne1HvMrCLAJGuSHZjlE9zRnD5TyMtNc3F2eXoUzfQ4rhbAwm-zBRFMm0Ua303jnWI.GOOWl0rceXsYmZUFUazE3Lry3m7q6PtwS0IX8iOdCEs&dib_tag=se&keywords=jogo+de+talher+inox&qid=1772414557&sprefix=jogo+de+talher+in%2Caps%2C268&sr=8-5"
-    },
-    {
-        Nome: "Escorredor de Pratos Inox",
-        imagem: "https://m.media-amazon.com/images/I/61qciphpIlL._AC_SL1200_.jpg",
-        url: "https://www.amazon.com.br/Escorredor-Pratos-Porta-Talheres-Inox/dp/B0786S11XL/ref=sr_1_6?crid=31C9G0VK8CH50&dib=eyJ2IjoiMSJ9.wnlRKX3RmFTGnXbviJCSQ84T3HkybtCsBEsER82itBqYz5Gv0XEK__cH4BeFK6XmrC7ZL_ZhginQYDmN1SrApBwa5DzG65FPtuAZaIzUa6cwgcERy-zSe17XDlClm8-FHA6j6MIL925c6mqKMeD4-NEfTw7nJ67wPNyVO0N1hHNcwIMpBRIjcMwKDXLA6HXIn7N1qBSdto5DBkj5MzVaov5Aj2pQ8GV6rocFUbHFnEitMkM3Il9Xlq_WhnN0wkHIPw4-HyQsqmwXxrGTZQIxfK2oqK_0VJ1wE5AKN0WAKH0.YRT_y5IWdfiSZ5LWLMPWxHfGVOysjp81yTzVFh-nX3s&dib_tag=se&keywords=escorredor+de+pratos+inox&qid=1772414644&sprefix=escorredor+de+pr%2Caps%2C270&sr=8-6&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d"
-    },
-    {
-        Nome: "Kit Taças de Vinho",
-        imagem: "https://m.media-amazon.com/images/I/51cNZIWhjjL._AC_.jpg",
-        url: "https://www.amazon.com.br/Cristal-Conjunto-Unidades-Brancos-Millilitros/dp/B0GK9RDPJM/ref=sr_1_8?__mk_pt_BR=ÅMÅŽÕÑ&crid=1CP6PC6V4MTDV&dib=eyJ2IjoiMSJ9.G68zz1c6-KPQ5oPPgKYjsZMUC5F-NkcXnBRMVkVEAr9g5PLGsxTYoXV-YqAks3n-z76QGZR-OeQCHhWLU8Zt_b3-UHAqp2vr7GG93nsUf_f96YBznh9VNoHk3JhCE-neM0my-TP8DfmfODUarR_9nS07e-8QaMlBNUELPp4L7-qNBF3YTtmUqP-VE1wpLOSUPFyaai5o39eb6mg1i_XEaVHvUKXOJH_XIbQJxHdTB7W71QjIblKdkRbHXRylvn2UpHzR4YhnRYDW4V-C37JP2Y5CH7soT-R5W5sMSNugQjI.oa5-6YoKL_4DczYTAu9-UWqxzY5yOR67EnBOjNLikaU&dib_tag=se&keywords=Kit+taça+de+vinho&qid=1772414739&sprefix=kit+taça+de+vin%2Caps%2C260&sr=8-8&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
-    },
-    {
-        Nome: "Jogo 10 Potes Vidro (Marmita)",
-        imagem: "https://m.media-amazon.com/images/I/6141QRR9kyL._AC_SL1000_.jpg",
-        url: "https://www.amazon.com.br/Borossilicato-Retangular-Marmita-Herm%C3%A9tica-Resistente/dp/B0GFFJ36NG/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=35W9OZHMV3N42&dib=eyJ2IjoiMSJ9.tybJrVTRs2vfKSJN44vbiNJAEd8xFDTgFGAvknVyrJ5wPh-3bBTgFb4M7p4-XdTGZeAu4CdPqDUD67qeqVU1C78KcZjyTayjxItOznh7YNlvU0bkRx-QvwJFM33OYVxcSye11YWcKdEYtpIb6CQfZEQ6x8nV3LeI6ckNRQ9zUEw_AfN9osXsV4CaaYzEDDmRRcmO-AJ8KtAb7gD0Kh_rBBUBWElPg2rV7YJ9FVabg5brUM_ur3DYlqrIDlipQDcwQCaf1-UEhNPuisahcEZsXoS1gwx3iJ9XHSvUp0wzU3c.pV2WNtz8IMvpMJNPvaMi5tQt6ZNFeuoG1V2O536kMqM&dib_tag=se&keywords=jogo+10+potes+de+vidro&qid=1772414888&sprefix=jogo+10+potes+de+vid%2Caps%2C255&sr=8-6&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e"
-    },
-    {
-        Nome: "Conjunto Peneira Inox",
-        imagem: "https://m.media-amazon.com/images/I/51E5IJI0JQL._AC_SL1300_.jpg",
-        url: "https://www.amazon.com.br/Conjunto-Peneiras-Coador-Resistentes-Cozinha/dp/B0D4JMMJ9V/ref=sr_1_6?crid=2KKYZL5WK17L&dib=eyJ2IjoiMSJ9.Kqi3_yduFkikh1W8UAPahKDeYjGhRBjgPJmnae4kJU73RHf8Fh5Ki30_KW2Tm_gFlMrfIXY9wERYjRaLb989Wm7dRBkP1uMVHUOpN-iVJLJhcZEUjE-WHAmqUfA-Vz3moc9JSPeFYCLzSQTstAdY7w8ZYtwe7DZQfnUgaLaPRQAh99DtxPVbZBJ6gTq4lqbDcj9z_0Cq5S9otQkTpDkUPYz34mPhNm1YrM7iKlBS_1tX51caizhmtB88q7T9g9BNA6AX_4GQaH0Qd0cQwgu_duOYT2Rm8rvVKEAn3xvx2Eo.IkY25IEnkWnfZkwuE5orKJFDZ-uu27t5cFEEEN8gaiI&dib_tag=se&keywords=conjunto+de+peneira+inox&qid=1772414934&sprefix=conjunto+de+pene%2Caps%2C267&sr=8-6"
-    },
-    {
         Nome: "Jogo 4 Toalhas de Banho",
         imagem: "https://m.media-amazon.com/images/I/71s-kG60G+L._AC_SL1500_.jpg",
         url: "https://www.amazon.com.br/Toalhas-algod%C3%A3o-poli%C3%A9ster-Teka-Monaco/dp/B0FPDBXGGT/ref=sr_1_9?crid=ZQNRSMTCSY6V&dib=eyJ2IjoiMSJ9.nl5loG2kAuHfz0_rACPaATj7RfjhM0_92hXbOxP0Kk35o-f6w4gBDwm7b3194F-Kd2Ya6xPMs3voDNg3t6QYC6VoSB4GbX8Tu24mqsI1g-ys50OCeuZgKl_vNjzl4xxDULG1t6ajIYrgyk_yoJKoAdoZUdaxQP8n2q3D58aP5iqAaRkqPl16aKytQvpRYsbpf_YxOAALSBroX6UddfZTXrsmE7I9coEQds3IAHymbXprJaWEUuccgBEjGH9KuAU_ohzb9QmsasjwGn75tSx_dZiA1wW453frxsIoQSce9Xs.khV5L7ej9RipuCNPJGIxyWO62xsjegWDLbC21s7Wsl4&dib_tag=se&keywords=jogo%2Btoalha%2Bde%2Bbanho&qid=1772414996&sprefix=jogo%2Btoalha%2Caps%2C269&sr=8-9&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d&th=1"
     },
     {
-        Nome: "Lixeira Banheiro",
-        imagem: "https://m.media-amazon.com/images/I/41M8clT1JFL._AC_SL1280_.jpg",
-        url: "https://www.amazon.com.br/Lixeira-Redonda-Metal-Litros-Branco/dp/B0FVY7L8FX/ref=sr_1_20?crid=O1RTVBUOL9XI&dib=eyJ2IjoiMSJ9.TAhHQJ6dcky070P8CSE4el3Vt0oT03b3ieXnTSl7AClC4w3RvhO_NH0XpHXf7p8VFyAxAcmW937WZiWIL_yaFXM9cGEdCtYx19-MDZS1kL50lhCF2MMuoh_cmoli1IdpWaTalA2nPu7LGwb40xRm-fofObPe4wJcRBjlOMvyRXjimyt9Z-XFhp1Jp0FGwGLgzZmo-js1b-DfcCUc2g62hB0sCwA6Muv9I5Pfuyx8q2wztNzbE1Re_0qj5t-Y7ZKvUXKiUXucogB0QCP2YEIxAqNzkITw3jfdjDWwxylivGU._7khVqgYdP8qy8TpRgaeirpPbQHvn_Nr6pf23NS5mZk&dib_tag=se&keywords=lixeira%2Bbanheiro&qid=1772415095&sprefix=Lixeira%2B%2Caps%2C266&sr=8-20&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&th=1"
-    },
-    {
-        Nome: "Kit 2 Canecas de Chopp",
-        imagem: "https://m.media-amazon.com/images/I/61w4OgN-d+L._AC_SL1200_.jpg",
-        url: "https://www.amazon.com.br/Kit-Canecas-Chopp-350ml-Vidro/dp/B0FW5HXHQH/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37KXCAR894CGY&dib=eyJ2IjoiMSJ9.IOr7HqJm6psOP5LOhRneaz3yRCdXt16c3Uaz9VoBhb9rnGcLHnkclJiRAI3DdjcOSHosrRFUzZbNvZuixvuiOMknJFvIaCNVD26yLAg2iVh7rHwgpsNfrVtjq88TUetmnYCkRaOjoP_Vb5prfNzl75LTsHVRNpUWa2GGWc1wz-i8zfOLpy_SRYv1P5iFMQMNELxl0AUWFprR-rrF0tgipKJlX9h4q9CjuNC690LvGfsPBmd1ec9HwnQsmhuiVVrzRsyJRnTB8YrTGeZFlwcFRX1e_aFo3hB-3JP45f4392o.hjA7Mr5piqK5auXzbs6jEcMpCBMWn3nJkfjXf1rdSnc&dib_tag=se&keywords=kit+caneca+de+chopp&qid=1772415170&sprefix=kit+caneca+de+chop%2Caps%2C261&sr=8-7"
+        Nome: "Lixeira Banheiro 12 Litros",
+        imagem: "https://m.media-amazon.com/images/I/31OEYuTUleL.jpg",
+        url: "https://www.amazon.com.br/Lixeira-Automatica-Inteligente-Sensor-Branca/dp/B0BFVDVDRN/ref=sr_1_11?dib=eyJ2IjoiMSJ9.n1G_SUZ8jbOV-AuEzcjO4sVygPibCJmPzQHpaAqI6Gr2KOWlRpXVJBgu0BHLgGDjvJnBjUB7JIIOfGUaYgaZO2nsQbcbrGcdDUSA1v-GSUdbiH7MTk3uneVOGs7440JgCRuZp2M9ni8GcW1xg5OR-RjpvtbhT9ayIcuQRBnvV6d_aT6Lxal5wkYzrnztyYcRqpRaZQOEODd_Y9wEaZYCB9D8nXOiv_sm11f0zXsrVolqWhmflBBEcxe97Didaells7LSM244-klUheKaK5-xh49ik3HO27JU9kjXbjhN5gU.-r4NO0aynVe3KobqbQkPcYQrG6Xi4AVQ0ZhGD4_h-H0&dib_tag=se&keywords=lixo+15+litros&qid=1773106481&sr=8-11&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
     },
     {
         Nome: "TV",
